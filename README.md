@@ -8,3 +8,7 @@ Clone the project
 ```sh
 git clone https://github.com/CodingToffee/price-prediction.git
 ```
+Install requirements
+```sh
+pip install -r requirements.txt
+```
